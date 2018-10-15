@@ -1,0 +1,30 @@
+{
+  "name": "conheca-o-brasil",
+  "version": "1.0.0",
+  "description": "Uma lista colaborativa de locais para se conhecer no Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelabomfim/conheca-o-brasil.git"
+  },
+  "keywords": [
+    "brasil",
+    "lista",
+    "colaborativa",
+    "brazil",
+    "collaborative",
+    "hacktoberfest",
+    "react",
+    "json",
+    "hacktoberfest2018"
+  ],
+  "author": "Marcela Bomfim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelabomfim/conheca-o-brasil/issues"
+  },
+  "homepage": "https://github.com/marcelabomfim/conheca-o-brasil#readme"
+}

@@ -1,0 +1,14 @@
+{
+  "locais": [
+    {
+      "imagem": "/imagens/jardim-botanico-curitiba-pr.jpg",
+      "titulo": "Jardim Botânico",
+      "descricao": "O Jardim Botânico de Curitiba, inaugurado em 5 de outubro de 1991, é uma área protegida, constituída por coleções de plantas vivas, cientificamente reconhecidas, organizadas e identificadas, com a finalidade de estudo, pesquisa e documentação do patrimônio florístico do País, em especial da flora paranaense."
+    },
+    {
+      "imagem": "/imagens/museu-do-olho-curitiba-pr.jpg",
+      "titulo": "Museu Oscar Niemeyer ou \"Museu do Olho\"",
+      "descricao": "O Museu Oscar Niemeyer mais conhecido localmente como Museu do Olho, localiza-se na cidade de Curitiba, capital do estado do Paraná, Brasil. O complexo de dois prédios, instalado em uma área de trinta e cinco mil metros quadrados, é um verdadeiro exemplo da Arquitetura aliada à Arte."
+    }
+  ]
+}
