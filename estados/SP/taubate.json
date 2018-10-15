@@ -1,0 +1,14 @@
+{
+  "locais": [
+    {
+      "imagem": "/imagens/praca-santa-terezinha-taubate-sp.jpg",
+      "titulo": "Praça Santa Terezinha",
+      "descricao": "Lugar apropriado para levar crianças ao parquinho local, se exercitar com aparelhos de ginástica ao livre, além de diversos locais para comer"
+    },
+    {
+      "imagem": "/imagens/sitio-do-pica-pau-amarelo-taubate-sp.jpg",
+      "titulo": "Sítio do Pica-Pau Amarelo",
+      "descricao": "Lugar apropriado para levar crianças com programações infantis como teatros, atividades ao livre e muito mais"
+    }
+  ]
+}
