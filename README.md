@@ -18,16 +18,16 @@ Mais detalhes [aqui](/CONTRIBUTING.md)
 Exemplo: `PR/curitiba.json`
 ```
 {
-  "locals": [
+  "locais": [
     {
-      "image": "/images/nome-da-imagem.jpg",
-      "title": "Um lugar legal",
-      "description": "uma descrição legal"
+      "imagem": "/images/nome-da-imagem.jpg",
+      "titulo": "Um lugar legal",
+      "descricao": "uma descrição legal"
     },
     {
-      "image": "/images/nome-da-imagem.jpg",
-      "title": "Um lugar legal",
-      "description": "uma descrição legal"
+      "imagem": "/images/nome-da-imagem.jpg",
+      "titulo": "Um lugar legal",
+      "descricao": "uma descrição legal"
     }
   ]
 }
