@@ -1,0 +1,15 @@
+{
+    "locais": [
+      {
+        "imagem": "/imagens/parque-da-cidade-sao-jose-dos-campos-sp.jpg",
+        "titulo": "Parque da Cidade",
+        "descricao": "O espaço possui uma pista para caminhada e locais destinados a eventos, como shows de música, teatro e dança, ao lado do Museu do Folclore de Sao José dos Campos, administrado pela Fundação Cultural Cassiano Ricardo."
+      },
+      {
+        "imagem": "/imagens/parque-da-cidade-sao-jose-dos-campos-sp.jpg",
+        "titulo": "Thermas do Vale",
+        "descricao": "Você encontrará no Thermas do Vale locais agradáveis para relaxar e fugir da rotina agitada do dia-a-dia."
+      }
+    ]
+  }
+  
