@@ -9,6 +9,16 @@
       "imagem": "/imagens/museu-do-olho-curitiba-pr.jpg",
       "titulo": "Museu Oscar Niemeyer ou \"Museu do Olho\"",
       "descricao": "O Museu Oscar Niemeyer mais conhecido localmente como Museu do Olho, localiza-se na cidade de Curitiba, capital do estado do Paraná, Brasil. O complexo de dois prédios, instalado em uma área de trinta e cinco mil metros quadrados, é um verdadeiro exemplo da Arquitetura aliada à Arte."
+    },
+    {
+      "imagem": "/imagens/parque-tangua-curitiba-pr.jpg",
+      "titulo": "Parque Tanguá",
+      "descricao": "O Parque Tanguá é um dos principais parques da cidade de Curitiba, capital do estado brasileiro do Paraná."
+    },
+    {
+      "imagem": "/imagens/opera-de-arame-curitiba-pr.jpg",
+      "titulo": "Ópera de Arame",
+      "descricao": "Ópera de Arame é um teatro brasileiro, localizado na cidade de Curitiba, capital do estado do Paraná. Seu nome deriva do estilo construtivo, feito de tubos de aço e estruturas metálicas, coberto com placas transparentes de policarbonato, lembrando a fragilidade de uma construção em arame."
     }
   ]
 }
