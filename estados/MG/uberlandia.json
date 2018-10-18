@@ -9,6 +9,11 @@
       "imagem": "/imagens/parque-municipal-victório-siquieroli-uberlandia.jpg",
       "titulo": "Parque Municipal Victório Siquieroli",
       "descricao": "Parque que possui local para caminhada em meio ao cerrado. Possui também um Núcleo de Educação ambiental que esta aberto a toda comunidade. Se destaca que no local também se encontra o Museu de Biodiversidade do Cerrado"
+    },
+    {
+      "imagem": "/imagens/parque-do-sabia.jpg",
+      "titulo": "Parque do Sabiá",
+      "descricao": "Parque que possui local para caminhada em meio ao cerrado. Possui também um Núcleo de Educação ambiental que esta aberto a toda comunidade. Se destaca que no local também se encontra o Museu de Biodiversidade do Cerrado"
     }
   ]
 }
