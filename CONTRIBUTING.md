@@ -1,45 +1,24 @@
 # Como contribuir
 
-## Estados
+## Locais
 
-Na pasta `estados` teremos uma nova pasta para cada estado do Brasil, com a UF que representa o estado, exemplo: 
+Para fazer a sua contibuição de um local legal para se conhecer, é só adicionar algumas informações ao final do arquivo `src/assets/data/locals.json`, como no exemplo abaixo:
 ```
-/estados/PR - para dados do estado do Paraná
-/estados/SP - para dados do estado de São Paulo
+{
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "imagem": "assets/images/nome-do-local-cidade-uf.jpg",
+  "titulo": "Nome do local",
+  "descricao": "Uma pequena descrição sobre o local"
+}
 ```
+Você pode adicionar quantos locais você desejar, sempre seguindo o exemplo acima para cada um dos locais
 
-## Cidades
-
-Dentro da pasta de cada estado teremos um arquivo json para cada cidade, com todas as letras maiúsculas, sem espaços ou caracteres especiais, exemplo:
-```
-/estados/PR/curitiba.json - para a cidade de Curitiba/PR
-/estados/SP/sao-paulo.json - para a cidade de São Paulo/PR
-```
 
 ## Imagens
 
-A idéia do projeto é fazer uma coleção de fotos com locais interessantes para se conhecer no Brasil, portanto você pode indicar a url de uma imagem da internet ou fazer o upload de suas próprias imagens na pasta `imagens`, com todas as letras maiúsculas, sem espaços ou caracteres especiais, exemplo:
+A idéia do projeto é fazer uma coleção de fotos com locais interessantes para se conhecer no Brasil, portanto você pode indicar a url de uma imagem da internet ou fazer o upload de suas próprias imagens na pasta `src/assets/images`, com todas as letras maiúsculas, sem espaços ou caracteres especiais, exemplo:
 ```
-/imagens/museu-do-olho-curitiba-pr.jpg
-/imagens/museu-do-olho-sao-paulo-sp.jpg
-```
-
-## Locais
-
-Para cada cidade teremos um json com a estrutura abaixo, onde *locais* será um array de objetos com imagem, título e descrição, exemplo:
-```
-{
-  "locais": [
-    {
-      "imagem": "/imagens/nome-do-local-cidade-uf.jpg",
-      "titulo": "Nome do local",
-      "descricao": "Uma pequena descrição sobre o local"
-    },
-    {
-      "imagem": "/imagens/nome-do-local-cidade-uf.jpg",
-      "titulo": "Nome do local",
-      "descricao": "Uma pequena descrição sobre o local"
-    }
-  ]
-}
+assets/images/museu-do-olho-curitiba-pr.jpg
+assets/images/museu-do-olho-sao-paulo-sp.jpg
 ```
