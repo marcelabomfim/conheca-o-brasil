@@ -1,11 +1,8 @@
 {
   "name": "conheca-o-brasil",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Uma lista colaborativa de locais para se conhecer no Brasil",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marcelabomfim/conheca-o-brasil.git"
@@ -26,5 +23,37 @@
   "bugs": {
     "url": "https://github.com/marcelabomfim/conheca-o-brasil/issues"
   },
-  "homepage": "https://github.com/marcelabomfim/conheca-o-brasil#readme"
+  "homepage": "https://marcelabomfim.com/conheca-o-brasil",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build && react-snapshot",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json,css}": [
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.0",
+    "polished": "^1.9.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-helmet": "^5.2.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "react-snapshot": "^1.3.0",
+    "styled-components": "^3.4.9",
+    "styled-normalize": "^8.0.1"
+  },
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^7.2.2",
+    "prettier": "^1.14.3"
+  }
 }
