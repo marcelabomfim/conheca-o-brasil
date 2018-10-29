@@ -2,133 +2,133 @@
   {
     "uf": "MG",
     "cidade": "Uberlândia",
-    "imagem": "/imagens/praca-clarimundo-carneiro-uberlandia.jpg",
+    "imagem": "assets/images/praca-clarimundo-carneiro-uberlandia.jpg",
     "titulo": "Museu Municipal",
     "descricao": "Museu Municipal fica localizado na praça Clarimundo Carneiro. O prédio era a antiga sede administrativa da cidade de Uberlândia, porém em 1993 com a mudança da sede administrativa, o local se tornou o museu municipal. Já a praça fica onde foi construido o segundo cemitério da cidade."
   },
   {
     "uf": "MG",
     "cidade": "Uberlândia",
-    "imagem": "/imagens/parque-municipal-victório-siquieroli-uberlandia.jpg",
+    "imagem": "assets/images/parque-municipal-victório-siquieroli-uberlandia.jpg",
     "titulo": "Parque Municipal Victório Siquieroli",
     "descricao": "Parque que possui local para caminhada em meio ao cerrado. Possui também um Núcleo de Educação ambiental que esta aberto a toda comunidade. Se destaca que no local também se encontra o Museu de Biodiversidade do Cerrado"
   },
   {
     "uf": "MG",
     "cidade": "Uberlândia",
-    "imagem": "/imagens/parque-do-sabia.jpg",
+    "imagem": "assets/images/parque-do-sabia.jpg",
     "titulo": "Parque do Sabiá",
     "descricao": "Parque que possui local para caminhada em meio ao cerrado. Possui também um Núcleo de Educação ambiental que esta aberto a toda comunidade. Se destaca que no local também se encontra o Museu de Biodiversidade do Cerrado"
   },
   {
     "uf": "PB",
     "cidade": "João Pessoa",
-    "imagem": "/imagens/parque-solon-de-lucena-joao-pessoa-pb.jpg",
+    "imagem": "assets/images/parque-solon-de-lucena-joao-pessoa-pb.jpg",
     "titulo": "Parque Sólon de Lucena",
     "descricao": "O Parque Sólon de Lucena, também conhecido como Lagoa, é um espaço público da cidade de João Pessoa, capital do estado brasileiro da Paraíba. Um dos principais símbolos da cidade, o parque situa-se no centro da capital paraibana e apresenta belos jardins e uma lagoa, ao centro, com um grande espelho d'água circular cercado por palmeiras-imperiais."
   },
   {
     "uf": "PB",
     "cidade": "João Pessoa",
-    "imagem": "/imagens/farol-de-cabo-branco-joao-pessoa-pb.jpg",
+    "imagem": "assets/images/farol-de-cabo-branco-joao-pessoa-pb.jpg",
     "titulo": "Farol do Cabo Branco",
     "descricao": "O Farol do Cabo Branco localiza-se sobre uma falésia na praia de Cabo Branco em João Pessoa, capital do estado brasileiro da Paraíba. A construção situa-se cerca de 800 metros ao norte da Ponta do Seixas, o ponto mais oriental do Brasil continental. O farol, que tem uma forma triangular única no país, é um dos mais importantes e visitados cartões postais da capital paraibana."
   },
   {
     "uf": "PB",
     "cidade": "João Pessoa",
-    "imagem": "/imagens/picaozinho-joao-pessoa-pb.jpg",
+    "imagem": "assets/images/picaozinho-joao-pessoa-pb.jpg",
     "titulo": "Picãozinho",
     "descricao": "Picãozinho é uma formação de recifes, que fica localizado a cerca de 1500 metros da praia de Tambaú no litoral de João Pessoa - PB. Durante os períodos de baixa-mar uma grande porção do recife fica exposto."
   },
   {
     "uf": "PB",
     "cidade": "João Pessoa",
-    "imagem": "/imagens/ponta-dos-seixas-joao-pessoa-pb.jpg",
+    "imagem": "assets/images/ponta-dos-seixas-joao-pessoa-pb.jpg",
     "titulo": "Ponta dos Seixas",
     "descricao": "A ponta do Seixas é o ponto mais oriental do continente americano e consequentemente da parte continental do Brasil. Localiza-se a leste da cidade de João Pessoa, capital do estado da Paraíba, a quatorze quilômetros do centro da cidade e a três quilômetros ao sul do bairro de Cabo Branco."
   },
   {
     "uf": "PR",
     "cidade": "Curitiba",
-    "imagem": "/imagens/jardim-botanico-curitiba-pr.jpg",
+    "imagem": "assets/images/jardim-botanico-curitiba-pr.jpg",
     "titulo": "Jardim Botânico",
     "descricao": "O Jardim Botânico de Curitiba, inaugurado em 5 de outubro de 1991, é uma área protegida, constituída por coleções de plantas vivas, cientificamente reconhecidas, organizadas e identificadas, com a finalidade de estudo, pesquisa e documentação do patrimônio florístico do País, em especial da flora paranaense."
   },
   {
     "uf": "PR",
     "cidade": "Curitiba",
-    "imagem": "/imagens/museu-do-olho-curitiba-pr.jpg",
+    "imagem": "assets/images/museu-do-olho-curitiba-pr.jpg",
     "titulo": "Museu Oscar Niemeyer ou \"Museu do Olho\"",
     "descricao": "O Museu Oscar Niemeyer mais conhecido localmente como Museu do Olho, localiza-se na cidade de Curitiba, capital do estado do Paraná, Brasil. O complexo de dois prédios, instalado em uma área de trinta e cinco mil metros quadrados, é um verdadeiro exemplo da Arquitetura aliada à Arte."
   },
   {
     "uf": "PR",
     "cidade": "Curitiba",
-    "imagem": "/imagens/parque-tangua-curitiba-pr.jpg",
+    "imagem": "assets/images/parque-tangua-curitiba-pr.jpg",
     "titulo": "Parque Tanguá",
     "descricao": "O Parque Tanguá é um dos principais parques da cidade de Curitiba, capital do estado brasileiro do Paraná."
   },
   {
     "uf": "PR",
     "cidade": "Curitiba",
-    "imagem": "/imagens/opera-de-arame-curitiba-pr.jpg",
+    "imagem": "assets/images/opera-de-arame-curitiba-pr.jpg",
     "titulo": "Ópera de Arame",
     "descricao": "Ópera de Arame é um teatro brasileiro, localizado na cidade de Curitiba, capital do estado do Paraná. Seu nome deriva do estilo construtivo, feito de tubos de aço e estruturas metálicas, coberto com placas transparentes de policarbonato, lembrando a fragilidade de uma construção em arame."
   },
   {
     "uf": "RJ",
     "cidade": "Rio de Janeiro",
-    "imagem": "/imagens/bondinho-do-pao-de-acucar-rio-de-janeiro-rj.jpg",
+    "imagem": "assets/images/bondinho-do-pao-de-acucar-rio-de-janeiro-rj.jpg",
     "titulo": "Bondinho do Pão de Açúcar",
     "descricao": "O Bondinho do Pão de Açúcar é um teleférico localizado no bairro da Urca, no Rio de Janeiro. Liga a Praia Vermelha ao Morro da Urca e ao Morro do Pão de Açúcar. É uma das principais atrações turísticas da cidade, vale a pena ir lá e conferir as belas vistas."
   },
   {
     "uf": "SP",
     "cidade": "São Paulo",
-    "imagem": "/imagens/masp-sao-paulo-sp.jpg",
+    "imagem": "assets/images/masp-sao-paulo-sp.jpg",
     "titulo": "Museu de Arte de São Paulo (MASP)",
     "descricao": "Museu de Arte de São Paulo Assis Chateaubriand (mais conhecido pelo acrônimo MASP) é uma das mais importantes instituições culturais brasileiras. Localiza-se, desde 7 de novembro de 1968, na Avenida Paulista, cidade de São Paulo, o edifício é considerado um importante exemplar da arquitetura brutalista brasileira e um dos mais populares ícones da capital paulista, sendo tombado pelas três instâncias de proteção ao patrimônio: IPHAN, Condephaat e Conpresp."
   },
   {
     "uf": "SP",
     "cidade": "São Paulo",
-    "imagem": "/imagens/parque-da-cidade-sao-jose-dos-campos-sp.jpg",
+    "imagem": "assets/images/parque-da-cidade-sao-jose-dos-campos-sp.jpg",
     "titulo": "Parque da Cidade",
     "descricao": "O espaço possui uma pista para caminhada e locais destinados a eventos, como shows de música, teatro e dança, ao lado do Museu do Folclore de Sao José dos Campos, administrado pela Fundação Cultural Cassiano Ricardo."
   },
   {
     "uf": "SP",
     "cidade": "São Paulo",
-    "imagem": "/imagens/parque-da-cidade-sao-jose-dos-campos-sp.jpg",
+    "imagem": "assets/images/parque-da-cidade-sao-jose-dos-campos-sp.jpg",
     "titulo": "Thermas do Vale",
     "descricao": "Você encontrará no Thermas do Vale locais agradáveis para relaxar e fugir da rotina agitada do dia-a-dia."
   },
   {
     "uf": "SP",
     "cidade": "Tapiraí",
-    "imagem": "/imagens/cachoeira-do-cha-tapirai-sp",
+    "imagem": "assets/images/cachoeira-do-cha-tapirai-sp",
     "titulo": "Cachoeira do Chá",
     "descricao": "A Cachoeira do Chá é a atração natural mais visitada da cidade turística de Tapiraí. Localizada a 15 km do centro do município, há uma trilha às margens do Rio Corujas que leva até a queda principal, com 30 metros de altura."
   },
   {
     "uf": "SP",
     "cidade": "Taubaté",
-    "imagem": "/imagens/praca-santa-terezinha-taubate-sp.jpg",
+    "imagem": "assets/images/praca-santa-terezinha-taubate-sp.jpg",
     "titulo": "Praça Santa Terezinha",
     "descricao": "Lugar apropriado para levar crianças ao parquinho local, se exercitar com aparelhos de ginástica ao livre, além de diversos locais para comer"
   },
   {
     "uf": "SP",
     "cidade": "Taubaté",
-    "imagem": "/imagens/sitio-do-pica-pau-amarelo-taubate-sp.jpg",
+    "imagem": "assets/images/sitio-do-pica-pau-amarelo-taubate-sp.jpg",
     "titulo": "Sítio do Pica-Pau Amarelo",
     "descricao": "Lugar apropriado para levar crianças com programações infantis como teatros, atividades ao livre e muito mais"
   },
   {
     "uf": "TO",
     "cidade": "Mateiros",
-    "imagem": "/imagens/parque-estadual-jalapao-to.jpg",
+    "imagem": "assets/images/parque-estadual-jalapao-to.jpg",
     "titulo": "Parque estadual do Jalapão",
     "descricao": "Em meio ao cerrado do Tocantins, o Jalapão está sendo descoberto pelos turistas que buscam alguns dias de descanso longe dos grandes centros urbanos. O destino é ideal para relaxar e curtir intensamente o contato com a natureza."
   }

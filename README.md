@@ -15,22 +15,18 @@ Crie uma pasta com o UF do estado e um JSON com o nome da cidade (caso ainda nã
 
 Mais detalhes [aqui](/CONTRIBUTING.md)
 
-Exemplo: `PR/curitiba.json`
+Exemplo: (adicionar ao final do arquivo `src/assets/data/locals.json`)
 ```
-{
-  "locais": [
-    {
-      "imagem": "/images/nome-da-imagem.jpg",
-      "titulo": "Um lugar legal",
-      "descricao": "uma descrição legal"
-    },
-    {
-      "imagem": "/images/nome-da-imagem.jpg",
-      "titulo": "Um lugar legal",
-      "descricao": "uma descrição legal"
-    }
-  ]
-}
+[
+  ...
+  {
+    "uf": "PR",
+    "cidade"> "Curitiba",
+    "imagem": "assets/images/nome-da-imagem.jpg",
+    "titulo": "Um lugar legal",
+    "descricao": "uma descrição legal"
+  }
+]
 ```
 
 ## Crie seu primeiro pull request
