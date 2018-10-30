@@ -21,7 +21,7 @@ Exemplo: (adicionar ao final do arquivo `src/assets/data/locals.json`)
   ...
   {
     "uf": "PR",
-    "cidade"> "Curitiba",
+    "cidade": "Curitiba",
     "imagem": "assets/images/nome-da-imagem.jpg",
     "titulo": "Um lugar legal",
     "descricao": "uma descrição legal"
