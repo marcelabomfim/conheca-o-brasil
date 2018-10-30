@@ -159,6 +159,13 @@
     "imagem": "assets/images/marco-zero-recife.jpg",
     "titulo": "Marco zero do Recife",
     "descricao": "O Marco Zero do Recife é uma praça que marca o local onde nasceu a cidade, à beira do Cais do Porto. Localizado no Bairro do Recife (ou Recife Antigo), o lugar é marcado por um painel do artista plástico Cícero Dias, instalado no chão."
+  },
+  {
+    "uf": "BA",
+    "cidade": "Salvador",
+    "imagem": "assets/images/pelourinho-salvador.jpg",
+    "titulo": "Pelourinho",
+    "descricao": "Inicialmente lugar de punição de escravos, o Pelourinho reflete a própria história de Salvador. Nas últimas décadas, o Pelourinho passou a atrair artistas de todos os gêneros: cinema, música, pintura, tornando-o um importante centro cultural de Salvador."
   }
 
 ]
