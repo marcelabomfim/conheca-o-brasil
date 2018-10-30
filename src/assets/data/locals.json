@@ -166,6 +166,19 @@
     "imagem": "assets/images/pelourinho-salvador.jpg",
     "titulo": "Pelourinho",
     "descricao": "Inicialmente lugar de punição de escravos, o Pelourinho reflete a própria história de Salvador. Nas últimas décadas, o Pelourinho passou a atrair artistas de todos os gêneros: cinema, música, pintura, tornando-o um importante centro cultural de Salvador."
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Luís",
+    "imagem": "assets/images/casa-das-tulhas-centro-historico-sao-luis.jpg",
+    "titulo": "Casa das Tulhas",
+    "descricao": "A Casa das Tulhas é um mercado circular onde se vende produtos regionais, de tudo um pouco. O destaque são as cachaças de vários tipos e a tiquira (um destilado de mandioca considerado afrodisíaco). A Casa das Tulhas funciona de segunda a sexta, 6h às 20h; sábado, 6h às 18h e domingo, 6h às 13h."
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Luís",
+    "imagem": "assets/images/convento-das-merces-centro-historico-sao-luis.jpg",
+    "titulo": "Convento das Mercês",
+    "descricao": "Construído em 1654, o antigo convento abriga hoje o Memorial José Sarney, um espaço cultural e o Museu da Memória Republicana. Abre de segunda a sexta, das 14 h às 18 h e sábado até as 12 h. A visita guiada é gratuita."
   }
-
 ]
