@@ -56,6 +56,13 @@
     "descricao": "A ponta do Seixas é o ponto mais oriental do continente americano e consequentemente da parte continental do Brasil. Localiza-se a leste da cidade de João Pessoa, capital do estado da Paraíba, a quatorze quilômetros do centro da cidade e a três quilômetros ao sul do bairro de Cabo Branco."
   },
   {
+    "uf": "PB",
+    "cidade": "João Pessoa",
+    "imagem": "assets/images/praia-do-jacare-joao-pessoa-pb.jpg",
+    "titulo": "Praia do Jacaré",
+    "descricao": "Um dos pontos turísticos mais famosos da cidade, contempla o dito pôr do sol mais belo do país, ao som do sax tocado por Jurady, parte integrante da praia, tocando, em seu sax, religiosamente em todos os finais de tarde, o Bolero de Ravel."
+  },
+  {
     "uf": "PR",
     "cidade": "Curitiba",
     "imagem": "assets/images/jardim-botanico-curitiba-pr.jpg",
