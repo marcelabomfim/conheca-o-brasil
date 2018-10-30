@@ -1,5 +1,12 @@
 [
   {
+    "uf": "CE",
+    "cidade": "Fortaleza",
+    "imagem": "assets/images/feirinha-beira-mar-fortaleza.jpg",
+    "titulo": "Feirinha da Beira Mar",
+    "descricao": "A Feira de Artesanato da Av. Beira Mar já tem mais de 26 anos de existência e é um dos melhores lugares para comprar artesanato em Fortaleza. A feira tem uma localização ótima para turistas e cearenses, em frente ao Praiano Hotel, e oferece grande variedade de produtos."
+  },
+  {
     "uf": "MG",
     "cidade": "Uberlândia",
     "imagem": "assets/images/praca-clarimundo-carneiro-uberlandia.jpg",
@@ -126,11 +133,25 @@
     "descricao": "Lugar apropriado para levar crianças com programações infantis como teatros, atividades ao livre e muito mais"
   },
   {
+    "uf": "SP",
+    "cidade": "Campinas",
+    "imagem": "assets/images/parque-taquaral-campinas.jpg",
+    "titulo": "Parque Taquaral",
+    "descricao": "A Lagoa do Taquaral reúne uma grande variedade de espaços recreativos e culturais, a começar pela Lagoa Isaura Telles Alves de Lima que oferece o uso de pedalinhos, visita a uma réplica exata da Caravela Anunciação (nau que trouxe Pedro Alvares Cabral às terras Brasileiras) e espetáculo de “águas dançantes” de uma fonte sonora (nos fins de semana)."
+  },
+  {
     "uf": "TO",
     "cidade": "Mateiros",
     "imagem": "assets/images/parque-estadual-jalapao-to.jpg",
     "titulo": "Parque estadual do Jalapão",
     "descricao": "Em meio ao cerrado do Tocantins, o Jalapão está sendo descoberto pelos turistas que buscam alguns dias de descanso longe dos grandes centros urbanos. O destino é ideal para relaxar e curtir intensamente o contato com a natureza."
+  },
+  {
+    "uf": "PE",
+    "cidade": "Recife",
+    "imagem": "assets/images/marco-zero-recife.jpg",
+    "titulo": "Marco zero do Recife",
+    "descricao": "O Marco Zero do Recife é uma praça que marca o local onde nasceu a cidade, à beira do Cais do Porto. Localizado no Bairro do Recife (ou Recife Antigo), o lugar é marcado por um painel do artista plástico Cícero Dias, instalado no chão."
   },
   {
     "uf": "BA",
@@ -139,4 +160,5 @@
     "titulo": "Pelourinho",
     "descricao": "Inicialmente lugar de punição de escravos, o Pelourinho reflete a própria história de Salvador. Nas últimas décadas, o Pelourinho passou a atrair artistas de todos os gêneros: cinema, música, pintura, tornando-o um importante centro cultural de Salvador."
   }
+
 ]
