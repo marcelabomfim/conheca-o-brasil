@@ -138,5 +138,13 @@
     "imagem": "assets/images/parque-estadual-jalapao-to.jpg",
     "titulo": "Parque estadual do Jalapão",
     "descricao": "Em meio ao cerrado do Tocantins, o Jalapão está sendo descoberto pelos turistas que buscam alguns dias de descanso longe dos grandes centros urbanos. O destino é ideal para relaxar e curtir intensamente o contato com a natureza."
+  },
+  {
+    "uf": "PE",
+    "cidade": "Recife",
+    "imagem": "assets/images/marco-zero-recife.jpg",
+    "titulo": "Marco zero do Recife",
+    "descricao": "O Marco Zero do Recife é uma praça que marca o local onde nasceu a cidade, à beira do Cais do Porto. Localizado no Bairro do Recife (ou Recife Antigo), o lugar é marcado por um painel do artista plástico Cícero Dias, instalado no chão."
   }
+
 ]
