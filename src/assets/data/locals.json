@@ -7,6 +7,13 @@
     "descricao": "A Feira de Artesanato da Av. Beira Mar já tem mais de 26 anos de existência e é um dos melhores lugares para comprar artesanato em Fortaleza. A feira tem uma localização ótima para turistas e cearenses, em frente ao Praiano Hotel, e oferece grande variedade de produtos."
   },
   {
+    "uf": "CE",
+    "cidade": "Jijoca de Jericoacoara",
+    "imagem": "assets/images/praia-de-jericoacoara.jpg",
+    "titulo": "Praia de Jericoacoara",
+    "descricao": "Jericoacoara é uma praia cearense que fica, aproximadamente, a trezentos quilômetros da capital, Fortaleza. Até o ano de 1985, o lugar era apenas uma isolada aldeia de pescadores, escondida entre imensas e móveis dunas. Por volta dessa época o turismo foi descoberto."
+  },
+  {
     "uf": "MG",
     "cidade": "Uberlândia",
     "imagem": "assets/images/praca-clarimundo-carneiro-uberlandia.jpg",
@@ -167,5 +174,4 @@
     "titulo": "Pelourinho",
     "descricao": "Inicialmente lugar de punição de escravos, o Pelourinho reflete a própria história de Salvador. Nas últimas décadas, o Pelourinho passou a atrair artistas de todos os gêneros: cinema, música, pintura, tornando-o um importante centro cultural de Salvador."
   }
-
 ]
