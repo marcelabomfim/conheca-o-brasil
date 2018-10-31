@@ -120,6 +120,13 @@
   },
   {
     "uf": "SP",
+    "cidade": "São Paulo",
+    "imagem": "assets/images/patio-do-colegio.jpg",
+    "titulo": "Patio do Colégio",
+    "descricao": "O Pátio do Colégio é um sítio arqueológico, onde foi levantada a primeira construção da atual cidade de São Paulo."
+  },
+  {
+    "uf": "SP",
     "cidade": "Tapiraí",
     "imagem": "assets/images/cachoeira-do-cha-tapirai-sp",
     "titulo": "Cachoeira do Chá",
