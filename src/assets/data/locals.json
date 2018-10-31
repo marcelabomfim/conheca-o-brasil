@@ -7,6 +7,13 @@
     "descricao": "A Feira de Artesanato da Av. Beira Mar já tem mais de 26 anos de existência e é um dos melhores lugares para comprar artesanato em Fortaleza. A feira tem uma localização ótima para turistas e cearenses, em frente ao Praiano Hotel, e oferece grande variedade de produtos."
   },
   {
+    "uf": "CE",
+    "cidade": "Jijoca de Jericoacoara",
+    "imagem": "assets/images/praia-de-jericoacoara.jpg",
+    "titulo": "Praia de Jericoacoara",
+    "descricao": "Jericoacoara é uma praia cearense que fica, aproximadamente, a trezentos quilômetros da capital, Fortaleza. Até o ano de 1985, o lugar era apenas uma isolada aldeia de pescadores, escondida entre imensas e móveis dunas. Por volta dessa época o turismo foi descoberto."
+  },
+  {
     "uf": "MG",
     "cidade": "Uberlândia",
     "imagem": "assets/images/praca-clarimundo-carneiro-uberlandia.jpg",
@@ -120,6 +127,13 @@
   },
   {
     "uf": "SP",
+    "cidade": "São Paulo",
+    "imagem": "assets/images/patio-do-colegio.jpg",
+    "titulo": "Patio do Colégio",
+    "descricao": "O Pátio do Colégio é um sítio arqueológico, onde foi levantada a primeira construção da atual cidade de São Paulo."
+  },
+  {
+    "uf": "SP",
     "cidade": "Tapiraí",
     "imagem": "assets/images/cachoeira-do-cha-tapirai-sp",
     "titulo": "Cachoeira do Chá",
@@ -180,5 +194,12 @@
     "imagem": "assets/images/convento-das-merces-centro-historico-sao-luis.jpg",
     "titulo": "Convento das Mercês",
     "descricao": "Construído em 1654, o antigo convento abriga hoje o Memorial José Sarney, um espaço cultural e o Museu da Memória Republicana. Abre de segunda a sexta, das 14 h às 18 h e sábado até as 12 h. A visita guiada é gratuita."
+  },
+  {
+    "uf": "SP",
+    "cidade": "Embu das Artes",
+    "imagem": "assets/images/embu-das-artes.jpg",
+    "titulo": "Feira do Embu",
+    "descricao": "Localizada a apenas 25km do Centro de São Paulo, Embu das Artes tem aquele clima de cidade de interior, casinhas históricas e coloridas, além de muitas lojinhas e restaurantes. "
   }
 ]
