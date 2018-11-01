@@ -201,5 +201,12 @@
     "imagem": "assets/images/embu-das-artes.jpg",
     "titulo": "Feira do Embu",
     "descricao": "Localizada a apenas 25km do Centro de São Paulo, Embu das Artes tem aquele clima de cidade de interior, casinhas históricas e coloridas, além de muitas lojinhas e restaurantes. "
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jaboatão dos Guararapes",
+    "imagem": "assets/images/lagoa-azul-pe.png",
+    "titulo": "Atividades radicais em volta da Lagoa Azul",
+    "descricao": "Surgiu após uma perfuração que atingiu um lençol freático, a Lagoa Azul virou um pequeno paraíso escondido formado por paredões rochosos, águas e árvores. Apesar do acesso ser um pouco difícil, é um ótimo local para lazer ao ar livre de baixo custo. Para quem gosta de aventura, o rapel é uma das atividades oferecidas por várias empresas no local."
   }
 ]
