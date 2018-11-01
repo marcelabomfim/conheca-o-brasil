@@ -201,5 +201,26 @@
     "imagem": "assets/images/embu-das-artes.jpg",
     "titulo": "Feira do Embu",
     "descricao": "Localizada a apenas 25km do Centro de São Paulo, Embu das Artes tem aquele clima de cidade de interior, casinhas históricas e coloridas, além de muitas lojinhas e restaurantes. "
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jaboatão dos Guararapes",
+    "imagem": "assets/images/lagoa-azul-pe.png",
+    "titulo": "Atividades radicais em volta da Lagoa Azul",
+    "descricao": "Surgiu após uma perfuração que atingiu um lençol freático, a Lagoa Azul virou um pequeno paraíso escondido formado por paredões rochosos, águas e árvores. Apesar do acesso ser um pouco difícil, é um ótimo local para lazer ao ar livre de baixo custo. Para quem gosta de aventura, o rapel é uma das atividades oferecidas por várias empresas no local."
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cabo de Santo Agostinho",
+    "imagem": "assets/images/paiva-pe.png",
+    "titulo": "Piquenique na tranquilidade litorânea",
+    "descricao": "A praia do Paiva é um lugar para aqueles que querem aproveitar a calmaria e união com a natureza, já que não rola bares e restaurantes por lá. Mais afastada da cidade e tranquila, possui águas limpas e mornas. Para quem prefere ficar em terra firme, um piquenique na areia é uma boa opção."
+  },
+  {
+    "uf": "PE",
+    "cidade": "Recife",
+    "imagem": "assets/images/paco-frevo-pe.jpg",
+    "titulo": "Conhecer tradicional dança do frevo",
+    "descricao": "O Paço do Frevo é um espaço dedicado à difusão, pesquisa e valorização da dança e música do frevo, visando propagar a sua prática para as futuras gerações. Espaço para mergulhar no universo de histórias, memórias e sentir um pouco da vibe do carnaval pernambucano."
   }
 ]
