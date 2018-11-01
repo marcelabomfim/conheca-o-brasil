@@ -215,5 +215,12 @@
     "imagem": "assets/images/paiva-pe.png",
     "titulo": "Piquenique na tranquilidade litorânea",
     "descricao": "A praia do Paiva é um lugar para aqueles que querem aproveitar a calmaria e união com a natureza, já que não rola bares e restaurantes por lá. Mais afastada da cidade e tranquila, possui águas limpas e mornas. Para quem prefere ficar em terra firme, um piquenique na areia é uma boa opção."
+  },
+  {
+    "uf": "PE",
+    "cidade": "Recife",
+    "imagem": "assets/images/paco-frevo-pe.jpg",
+    "titulo": "Conhecer tradicional dança do frevo",
+    "descricao": "O Paço do Frevo é um espaço dedicado à difusão, pesquisa e valorização da dança e música do frevo, visando propagar a sua prática para as futuras gerações. Espaço para mergulhar no universo de histórias, memórias e sentir um pouco da vibe do carnaval pernambucano."
   }
 ]
