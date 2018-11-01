@@ -201,5 +201,12 @@
     "imagem": "assets/images/embu-das-artes.jpg",
     "titulo": "Feira do Embu",
     "descricao": "Localizada a apenas 25km do Centro de São Paulo, Embu das Artes tem aquele clima de cidade de interior, casinhas históricas e coloridas, além de muitas lojinhas e restaurantes. "
+  },
+    {
+    "uf": "MG",
+    "cidade": "Conselheiro Lafaiete",
+    "imagem": "assets/images/Lafaiete.jpg",
+    "titulo": "Cristo de Lafaiete",
+    "descricao": "Localizada a 100km de Belo Horizonte, Lafaiete é uma cidade em crescimento, muito próxima da região de mineração de grandes empresas como Vale e Gerdau. "
   }
 ]
