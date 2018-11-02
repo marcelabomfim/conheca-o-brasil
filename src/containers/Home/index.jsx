@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import Header from 'components/Header';
 import StatesSelect from 'components/StatesSelect';
+import Local from 'components/Local';
 
 import { getStates, getRandomLocal } from 'services';
 
@@ -34,8 +35,7 @@ export default class extends Component {
         <p>Esta é a página de início</p>
         <StatesSelect states={states} selected={local && local.uf} />
         <button onClick={this.getNextLocal}>Próximo</button>
-        <br />
-        <code>{JSON.stringify(local)}</code>
+        {local && <Local local={local} />}
       </div>
     );
   }
