@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import Header from 'components/Header';
 import StatesSelect from 'components/StatesSelect';
 
-import { getStates } from 'services';
+import { getStates, getRandomLocal } from 'services';
 
 export default class extends Component {
   state = {
@@ -11,22 +11,31 @@ export default class extends Component {
   };
 
   componentDidMount() {
-    this.getInitialValue();
+    this.getStates();
+    this.getNextLocal();
   }
 
-  getInitialValue = async () => {
-    const states = await getStates();
+  getStates = () => {
+    const states = getStates();
     this.setState({ states });
   };
 
+  getNextLocal = () => {
+    const local = getRandomLocal();
+    this.setState({ local });
+  };
+
   render() {
-    const { states } = this.state;
+    const { states, local } = this.state;
 
     return (
       <div>
         <Header />
         <p>Esta é a página de início</p>
-        <StatesSelect states={states} />
+        <StatesSelect states={states} selected={local && local.uf} />
+        <button onClick={this.getNextLocal}>Próximo</button>
+        <br />
+        <code>{JSON.stringify(local)}</code>
       </div>
     );
   }
