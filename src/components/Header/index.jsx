@@ -2,12 +2,15 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 import Icon from 'components/Icon';
+import Brasil from 'components/Brasil';
 
 import { Header, Menu, Title } from './styles';
 
 export default () => (
   <Header>
-    <Title>Conheça o Brasil</Title>
+    <Title>
+      <Brasil /> Conheça o Brasil
+    </Title>
     <Menu>
       <ul>
         <li>

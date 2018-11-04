@@ -12,6 +12,11 @@ export const Title = styled.h3`
   font-size: ${theme.font.h3};
   margin: 0;
   text-shadow: 0 0 12px ${theme.colors.shadow}4d;
+
+  svg {
+    border-radius: 4px;
+    box-shadow: 0 0 12px ${theme.colors.shadow}4d;
+  }
 `;
 
 export const Menu = styled.nav`
