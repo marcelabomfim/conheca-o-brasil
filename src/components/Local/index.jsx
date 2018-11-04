@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Local } from './styles';
+import { Local, Image } from './styles';
 
 export default ({ local }) => (
   <Local>
@@ -9,6 +9,6 @@ export default ({ local }) => (
       {local.cidade}/{local.uf}
     </h4>
     <p>{local.descricao}</p>
-    <img src={require('../../' + local.imagem)} alt={local.titulo} />
+    <Image src={require('../../' + local.imagem)} />
   </Local>
 );
