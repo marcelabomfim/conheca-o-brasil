@@ -1,14 +1,18 @@
 import React from 'react';
 
-import { Local, Image } from './styles';
+import Icon from 'components/Icon';
+
+import { Local, Title, SubTitle, Description, Image } from './styles';
 
 export default ({ local }) => (
   <Local>
-    <h2>{local.titulo}</h2>
-    <h4>
-      {local.cidade}/{local.uf}
-    </h4>
-    <p>{local.descricao}</p>
-    <Image src={require('../../' + local.imagem)} />
+    <div className="container">
+      <Title>{local.titulo}</Title>
+      <SubTitle>
+        <Icon name="location" /> {local.cidade}/{local.uf}
+      </SubTitle>
+      <Description>{local.descricao}</Description>
+    </div>
+    <Image src={local.imagem} />
   </Local>
 );
