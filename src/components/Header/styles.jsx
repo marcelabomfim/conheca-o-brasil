@@ -1,14 +1,22 @@
 import styled from 'styled-components';
 
+import { theme } from 'theme';
+
 export const Header = styled.header`
-  padding: 20px;
   display: flex;
   justify-content: space-between;
+  width: 100%;
 `;
 
-export const Title = styled.h1`
-  font-size: 1.5em;
+export const Title = styled.h3`
+  font-size: ${theme.font.h3};
   margin: 0;
+  text-shadow: 0 0 12px ${theme.colors.shadow}4d;
+
+  svg {
+    border-radius: 4px;
+    box-shadow: 0 0 12px ${theme.colors.shadow}4d;
+  }
 `;
 
 export const Menu = styled.nav`
@@ -21,14 +29,15 @@ export const Menu = styled.nav`
     li {
       display: inline-block;
       list-style: none;
-      padding: 5px 20px;
-
-      &:hover {
-        text-decoration: underline;
-      }
+      padding: ${theme.spacing.xsmall} ${theme.spacing.base};
+      text-shadow: 0 0 12px ${theme.colors.shadow}4d;
 
       .active {
         font-weight: bold;
+      }
+
+      svg {
+        margin-left: ${theme.spacing.small};
       }
     }
   }
