@@ -3,8 +3,6 @@ import styled from 'styled-components';
 import { theme } from 'theme';
 
 export const Local = styled.div`
-  padding: ${theme.spacing.large};
-
   .container {
     max-width: 760px;
   }

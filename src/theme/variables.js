@@ -16,8 +16,8 @@ export default {
   font: {
     text: '"Open Sans", sans-serif',
     title: '"Quicksand", sans-serif',
-    h1: '2.5em',
-    h2: '2em',
+    h1: '4em',
+    h2: '2.5em',
     h3: '1.5em',
     h4: '1em'
   }

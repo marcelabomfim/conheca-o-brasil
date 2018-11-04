@@ -9,6 +9,6 @@ export default styled.svg.attrs({
   height: auto;
   color: inherit;
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: bottom;
   fill: ${theme.colors.text};
 `;
