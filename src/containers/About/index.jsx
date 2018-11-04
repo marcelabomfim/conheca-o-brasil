@@ -1,10 +1,12 @@
 import React from 'react';
 
+import Container from 'components/Container';
 import Header from 'components/Header';
+import AboutContent from 'components/AboutContent';
 
 export default () => (
-  <div>
+  <Container>
     <Header />
-    <p>Esta é a página sobre</p>
-  </div>
+    <AboutContent />
+  </Container>
 );
