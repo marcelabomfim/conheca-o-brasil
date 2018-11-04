@@ -1,8 +1,11 @@
 import React, { Component } from 'react';
 
+import Container from 'components/Container';
 import Header from 'components/Header';
 import StatesSelect from 'components/StatesSelect';
 import Local from 'components/Local';
+import Button from 'components/Button';
+import Icon from 'components/Icon';
 
 import { getStates, getRandomLocal } from 'services';
 
@@ -23,20 +26,23 @@ export default class extends Component {
 
   getNextLocal = () => {
     const local = getRandomLocal();
-    this.setState({ local });
+    this.setState({
+      local: { ...local, imagem: require('../../' + local.imagem) }
+    });
   };
 
   render() {
     const { states, local } = this.state;
 
     return (
-      <div>
+      <Container justifyBetween>
         <Header />
-        <p>Esta é a página de início</p>
         <StatesSelect states={states} selected={local && local.uf} />
-        <button onClick={this.getNextLocal}>Próximo</button>
         {local && <Local local={local} />}
-      </div>
+        <Button onClick={this.getNextLocal}>
+          Próximo <Icon name="right" />
+        </Button>
+      </Container>
     );
   }
 }
