@@ -4,6 +4,7 @@ export default `
   body {
     color: ${theme.colors.text};
     font-family: ${theme.font.text};
+    min-height: 100vh;
 
     background: ${theme.colors.bg1};
     background: -moz-linear-gradient(45deg, ${theme.colors.bg1} 30%, ${

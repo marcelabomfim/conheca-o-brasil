@@ -1,13 +1,15 @@
 import styled from 'styled-components';
 
+import { theme } from 'theme';
+
 export const Header = styled.header`
-  padding: 20px;
+  padding: ${theme.spacing.large};
   display: flex;
   justify-content: space-between;
 `;
 
 export const Title = styled.h1`
-  font-size: 1.5em;
+  font-size: ${theme.font.h3};
   margin: 0;
 `;
 
@@ -21,7 +23,7 @@ export const Menu = styled.nav`
     li {
       display: inline-block;
       list-style: none;
-      padding: 5px 20px;
+      padding: ${theme.spacing.xsmall} ${theme.spacing.base};
 
       &:hover {
         text-decoration: underline;
@@ -29,6 +31,10 @@ export const Menu = styled.nav`
 
       .active {
         font-weight: bold;
+      }
+
+      svg {
+        margin-left: ${theme.spacing.small};
       }
     }
   }

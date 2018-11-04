@@ -1,6 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
+import Icon from 'components/Icon';
+
 import { Header, Menu, Title } from './styles';
 
 export default () => (
@@ -20,7 +22,7 @@ export default () => (
         </li>
         <li>
           <a href="https://github.com/marcelabomfim/conheca-o-brasil">
-            Contribua
+            Contribua <Icon name="github" />
           </a>
         </li>
       </ul>
