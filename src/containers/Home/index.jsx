@@ -6,6 +6,7 @@ import StatesSelect from 'components/StatesSelect';
 import Local from 'components/Local';
 import Button from 'components/Button';
 import Icon from 'components/Icon';
+import IconContainer from 'components/IconContainer';
 
 import { getStates, getRandomLocal } from 'services';
 
@@ -39,6 +40,7 @@ export default class extends Component {
         <Header />
         <StatesSelect states={states} selected={local && local.uf} />
         {local && <Local local={local} />}
+        <IconContainer />
         <Button onClick={this.getNextLocal}>
           Próximo <Icon name="right" />
         </Button>
