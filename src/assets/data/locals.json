@@ -15,6 +15,13 @@
   },
   {
     "uf": "MG",
+    "cidade": "Januaria",
+    "imagem": "assets/images/mercado-municipal-januaria.jpg",
+    "titulo": "Mercado Municipal de Januaria ",
+    "descricao": "Mercado Municipal que fica localizado no centro da Cidade. O Mercado Municipal de Januaria é um local onde se comercializa produtos artesanais da região , bem como todo tipo de produção , como : Farinha de mandioca ,carnes ,frutos do cerrado ,grãos raízes,doces,peixes e entre outros objetos utilizados na região."
+  },
+  {
+    "uf": "MG",
     "cidade": "Uberlândia",
     "imagem": "assets/images/praca-clarimundo-carneiro-uberlandia.jpg",
     "titulo": "Museu Municipal",
@@ -225,8 +232,8 @@
   },
   {
     "uf": "PB",
-    "cidade":"Cabedelo",
-    "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
-    "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+    "cidade": "Cabedelo",
+    "imagem": "assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
+    "descricao": "O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
   }
 ]
