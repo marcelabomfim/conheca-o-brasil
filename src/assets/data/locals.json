@@ -35,6 +35,13 @@
     "descricao": "Parque que possui local para caminhada em meio ao cerrado. Possui também um Núcleo de Educação ambiental que esta aberto a toda comunidade. Se destaca que no local também se encontra o Museu de Biodiversidade do Cerrado"
   },
   {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/igrejinha-da-pampulha-belo-horizonte-mg.jpg",
+    "titulo": "Igrejinha da Pampulha",
+    "descricao": "Uma das principais atrações do conjunto arquitetônico e urbanístico da Pampulha, a Igreja São Francisco de Assis, emoldurada pelas águas da lagoa, reúne as genialidades do arquiteto Oscar Niemeyer, do paisagista Burle Marx e do pintor Cândido Portinari. A combinação gerou a construção em tons azuis, com linhas e curvas totalmente revestida por azulejos e pelos painéis que retratam a Via Sacra e a imagem de São Francisco."
+  },
+  {
     "uf": "PB",
     "cidade": "João Pessoa",
     "imagem": "assets/images/parque-solon-de-lucena-joao-pessoa-pb.jpg",
@@ -196,6 +203,13 @@
     "descricao": "Construído em 1654, o antigo convento abriga hoje o Memorial José Sarney, um espaço cultural e o Museu da Memória Republicana. Abre de segunda a sexta, das 14 h às 18 h e sábado até as 12 h. A visita guiada é gratuita."
   },
   {
+    "uf": "MA",
+    "cidade": "Barreirinhas",
+    "imagem": "assets/images/lençois-maranhenses-barreirinhas-ma.jpg",
+    "titulo": "Lençóis Maranhenses",
+    "descricao": "Os lençóis maranhenses, um dos principais pontos turísticos do estado do Maranhão, no Brasil, faz parte do Parque Nacional dos Lençóis que tem uma área de 156,5 mil hectares. A paisagem é composta principalmente por dunas de areia branca, que lembram lençóis jogados na cama, formadas pela força dos ventos que constantemente mudam de posição alterando a aparência da região."
+  },
+  {
     "uf": "SP",
     "cidade": "Embu das Artes",
     "imagem": "assets/images/embu-das-artes.jpg",
@@ -225,8 +239,8 @@
   },
   {
     "uf": "PB",
-    "cidade":"Cabedelo",
-    "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
-    "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+    "cidade": "Cabedelo",
+    "imagem": "assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
+    "descricao": "O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
   }
 ]
