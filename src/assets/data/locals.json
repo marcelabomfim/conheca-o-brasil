@@ -15,6 +15,27 @@
   },
   {
     "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/mercadocentral.jpg",
+    "titulo": "Mercado Central",
+    "descricao":"Temperos, aromas, sabores, crenças, cores: todas as características mais marcantes da cultura mineira dão charme e muita personalidade ao mercado mais querido de Belo Horizonte.  Há nove décadas, o Mercado Central é ponto turístico para quem vem de fora e ponto de encontro para quem vive na cidade."
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/pracadopapa.jpg",
+    "titulo": "Praça do Papa",
+    "descricao":"Cercada pela Serra do Curral, a praça é um belo lugar para passear,relaxar e apreciar a vista panorâmica da cidade."
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/mineirao.jpg",
+    "titulo": "Mineirão",
+    "descricao":"Mineirão é um estádio de futebol e pode ser considerado um dos mais bonitos do Brasil.Com uma infraestrutura moderna é ideal para grandes eventos futebolísticos com arredores agradáveis para passeios familiares com restaurantes e atrações."
+  },
+  {
+    "uf": "MG",
     "cidade": "Uberlândia",
     "imagem": "assets/images/praca-clarimundo-carneiro-uberlandia.jpg",
     "titulo": "Museu Municipal",
