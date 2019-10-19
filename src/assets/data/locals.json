@@ -1,5 +1,12 @@
 [
   {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/mercado-central-mg.jpg",
+    "titulo": "Mercado Central",
+    "descricao": "Localizado no centro de BH, é um lugar acolhedor, onde é possível comprar iguarias mineiras, artesanato local e comidas típicas da melhor qualidade. Ótimo para reunir os amigos."
+  },
+  {
     "uf": "CE",
     "cidade": "Fortaleza",
     "imagem": "assets/images/feirinha-beira-mar-fortaleza.jpg",
@@ -225,8 +232,8 @@
   },
   {
     "uf": "PB",
-    "cidade":"Cabedelo",
-    "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
-    "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+    "cidade": "Cabedelo",
+    "imagem": "assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
+    "descricao": "O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
   }
 ]
