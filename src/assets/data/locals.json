@@ -229,4 +229,10 @@
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
   }
+  {
+    "uf": "MG",
+    "cidade":"Inhotim",
+    "imagem":"assets/images/Inhotim.jpg",
+    "descricao":"O Instituto Inhotim é a sede de um dos mais importantes acervos de arte contemporânea do Brasil e considerado o maior museu a céu aberto do mundo.[1][2] Está localizado em Brumadinho (Minas Gerais), uma cidade com 38 mil habitantes[3], a apenas 60 quilômetros de Belo Horizonte. O Instituto Inhotim localiza-se dentro do domínio da Mata Atlântica, com enclaves de cerrado nos topos das serras. Situado a uma altitude que varia entre 700 metros e 1 300 metros acima do nível do mar, sua área total é de 786,06 hectares, tendo como área de preservação 440,16 hectares, que compreendem os fragmentos de mata e incluem uma Reserva Particular do Patrimônio Natural (RPPN), com 145,37 hectares."
+  }
 ]
