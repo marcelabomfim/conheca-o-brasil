@@ -225,8 +225,20 @@
   },
   {
     "uf": "PB",
-    "cidade":"Cabedelo",
-    "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
-    "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+    "cidade": "Cabedelo",
+    "imagem": "assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
+    "descricao": "O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "RS",
+    "cidade": "Gramado",
+    "imagem": "assets/images/minimundo_gramado.jpg",
+    "descricao": "Mini Mundo é um parque em miniatura brasileiro, localizado na cidade de Gramado, no Rio Grande do Sul, sendo uma das mais tradicionais atrações turísticas desta cidade. No parque existem cidades em miniatura, cerca de 24 vezes menor que o tamanho real."
+  },
+  {
+    "uf": "RS",
+    "cidade": "Gramado",
+    "imagem": "assets/images/lago_negro_gramado_rs_1.jpg",
+    "descricao": "O Lago Negro é um lago artificial situado em Gramado, no Bairro Planalto, na Rua A. J. Renner. Aberto diariamente durante 24h, oferece passeio de pedalinhos, bar, restaurante e loja de conveniências."
   }
 ]
