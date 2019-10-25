@@ -228,5 +228,12 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/santa-tereza.jpeg",
+    "titulo": "Bairro Santa Tereza",
+    "descricao": "Santa Tereza ganhou fama de ser um dos mais tradicionais redutos boêmios da cidade graças às casas de serestas e bares . Pessoas ligadas à arte costumavam se encontrar para confraternizar, compor música, dançar e cantar durante as madrugadas. Berço do Clube da Esquina, de Milton Nascimento, Lô Borges, Beto Guedes, Flávio Venturini, etc, ainda é um importante reduto da boemia de BH."
   }
 ]
