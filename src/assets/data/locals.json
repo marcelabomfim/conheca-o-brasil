@@ -42,6 +42,13 @@
     "descricao": "Ponto turístico imperdível da cidade de Belo Horizonte. Possibilita uma imersão na cultura urbana. Desde relação com os skatistas da cidade até com os artesanatos dos hippies."
   },
   {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/pracadopapa.jpg",
+    "titulo": "Praça do Papa",
+    "descricao": "Pulão."
+  },
+  {
     "uf": "PB",
     "cidade": "João Pessoa",
     "imagem": "assets/images/parque-solon-de-lucena-joao-pessoa-pb.jpg",
