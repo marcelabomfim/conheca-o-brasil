@@ -35,6 +35,20 @@
     "descricao": "Parque que possui local para caminhada em meio ao cerrado. Possui também um Núcleo de Educação ambiental que esta aberto a toda comunidade. Se destaca que no local também se encontra o Museu de Biodiversidade do Cerrado"
   },
   {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/bhehotexas.jpg",
+    "titulo": "Praça Sete",
+    "descricao": "Ponto turístico imperdível da cidade de Belo Horizonte. Possibilita uma imersão na cultura urbana. Desde relação com os skatistas da cidade até com os artesanatos dos hippies."
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "imagem": "assets/images/pracadopapa.jpg",
+    "titulo": "Praça do Papa",
+    "descricao": "Pulão."
+  },
+  {
     "uf": "PB",
     "cidade": "João Pessoa",
     "imagem": "assets/images/parque-solon-de-lucena-joao-pessoa-pb.jpg",
@@ -225,8 +239,8 @@
   },
   {
     "uf": "PB",
-    "cidade":"Cabedelo",
-    "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
-    "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+    "cidade": "Cabedelo",
+    "imagem": "assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
+    "descricao": "O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
   }
 ]
