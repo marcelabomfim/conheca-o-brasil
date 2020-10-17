@@ -228,5 +228,11 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibicoara",
+    "imagem": "assets/images/cachoeira-do-buracao-ibicoara-ba.jpg",
+    "descricao": "A cachoeira do Buracão fica na parte sul da Chapada Diamantina, na Bahia. Mescla as belezas naturais dos cânions, cachoeiras e aventura das trilhas às margens do Rio Espelhado."
   }
 ]
