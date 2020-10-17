@@ -228,5 +228,11 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "PE",
+    "cidade":"Fernando de Noronha",
+    "imagem":"assets/images/Fernando-de-Noronha.jpg",
+    "descricao":"Uma ilha muito bem preservada ótimo lugar para mergulho e surf com muitos visitantes diariamente"
   }
 ]
