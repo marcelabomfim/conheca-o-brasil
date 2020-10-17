@@ -228,5 +228,11 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "PR",
+    "cidade":"Curitiba"
+    "imagem":"assets/images/cavalo-babao.jpg",
+    "descricao:":"Cavalo babão é uma fonte no centro do Largo da Ordem. Lugar de bares de tradição e boêmio."
   }
 ]
