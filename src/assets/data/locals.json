@@ -228,5 +228,12 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "RJ",
+    "cidade": "Rio de Janeiro",
+    "imagem": "assets/images/paco-frevo-pe.jpg",
+    "titulo": "Pôr do Sol na praia do Arpoador",
+    "descricao": "O Arpoador é um dos melhores pontos turísticos do Rio para apreciar o pôr do sol. Oferece uma vista panorâmica das praias de Ipanema e Leblon "
   }
 ]
