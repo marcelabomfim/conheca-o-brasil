@@ -28,6 +28,25 @@ Exemplo: (adicionar ao final do arquivo `src/assets/data/locals.json`)
   }
 ]
 ```
+## Como contribuir
+
+Crie uma pasta com o UF do estado e um JSON com o nome da cidade (caso ainda não exista), no json da cidade indique o caminho da imagem, título e pequena decrição do local.
+
+Mais detalhes [aqui](/CONTRIBUTING.md)
+
+Exemplo: (adicionar ao final do arquivo `src/assets/data/locals.json`)
+```
+[
+  ...
+  {
+    "uf": "BA",
+    "cidade": "Salvador",
+    "imagem": "assets/images/https://www.tripadvisor.com.br/Attraction_Review-g303272-d312079-Reviews-Pelourinho-Salvador_State_of_Bahia.html.jpg",
+    "titulo": "Lugar da terra que me habita",
+    "descricao": "Uma das capitais brasileiras a se conhe cer"
+  }
+]
+```
 
 ## Crie seu primeiro pull request
 
