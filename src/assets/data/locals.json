@@ -228,5 +228,12 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
-  }
+  },
+   {
+  "uf": "SP",
+  "cidade": "Eldorado",
+  "imagem": "assets/images/caverna-do-diabo.jpg",
+  "titulo": "Parque Estadual da Caverna do Diabo",
+  "descricao": "A Caverna do Diabo é a maior caverna do Estado de São Paulo Descoberta por pesquisadores há mais de 100 anos, já era conhecida e utilizada por indígenas e quilombolas há séculos, cuja história é povoada pelas mais incríveis lendas."
+   } 
 ]
