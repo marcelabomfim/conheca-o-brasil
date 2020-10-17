@@ -228,5 +228,12 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "imagem": "assets/images/predio-historico-ufpr-curitiba-pr.jpg",
+    "titulo": "Prédio Histórico da UFPR",
+    "descricao": "O Prédio Histórico da UFPR fica na Praça Santos Andrade, bem no centro de Curitiba. Ele foi inaugurado em 1915, 3 anos depois da inauguração da UFPR, a universidade mais antiga do Brasil. Atualmente, apenas alunos do curso de direito e psicologia tem aulas lá. Entretanto, a matrícula dos alunos ainda é feita lá."
   }
 ]
