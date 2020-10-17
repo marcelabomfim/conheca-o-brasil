@@ -228,5 +228,12 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Jequiá da Praia",
+    "imagem": "assets/images/dunas-de-marape-maceio.jpg",
+    "titulo": "Dunas de Marapé",
+    "descricao": "Dunas de Marapé é uma praia do município de Jequiá da Praia, no estado de Alagoas."
   }
 ]
