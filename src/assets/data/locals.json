@@ -228,5 +228,13 @@
     "cidade":"Cabedelo",
     "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
     "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Salvador",
+    "imagem": "assets/images/farol-da-barra-salvador.jpeg",
+    "titulo": "Principal ponto turistico de salvador",
+    "descricao":"Farol da barra é um dos pontos turisticos de salvador mais visitados."
   }
+
 ]
