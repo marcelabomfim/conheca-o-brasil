@@ -182,6 +182,20 @@
     "descricao": "Inicialmente lugar de punição de escravos, o Pelourinho reflete a própria história de Salvador. Nas últimas décadas, o Pelourinho passou a atrair artistas de todos os gêneros: cinema, música, pintura, tornando-o um importante centro cultural de Salvador."
   },
   {
+    "uf": "BA",
+    "cidade": "Salvador",
+    "imagem": "assets/images/elevador-lacerda-salvador.jpg",
+    "titulo": "Elevador Lacerda",
+    "descricao": "Situado no centro da cidade, ele foi o primeiro elevador urbano do mundo! Com aproximadamente 72 metros de alturas e duas torres, é possível ter uma vista panorâmica de toda cidade, e você ainda consegue ir da Cidade Baixa até a Cidade Alta (onde fica o centro histórico) em minutos. Ah, o preço é super em conta, apenas $0,15 por pessoa. Uma dica é visitar o elevador ao entardecer e tirar uma bela foto do pôr-do-sol baiano."
+  },
+  {
+    "uf": "BA",
+    "cidade": "Salvador",
+    "imagem": "assets/images/farol-da-barra-salvador.jpg",
+    "titulo": "Farol da Barra",
+    "descricao": "O Farol da Barra construído em 1839 é um dos principais pontos turísticos de Salvador. Com 22 metros de altura oferece uma das vistas mais lindas da cidade e é um dos melhores lugares para admirar o pôr-do-sol. Bem romântico e ideal para ir a dois;"
+  },
+  {
     "uf": "MA",
     "cidade": "São Luís",
     "imagem": "assets/images/casa-das-tulhas-centro-historico-sao-luis.jpg",
@@ -225,8 +239,8 @@
   },
   {
     "uf": "PB",
-    "cidade":"Cabedelo",
-    "imagem":"assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
-    "descricao":"O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
+    "cidade": "Cabedelo",
+    "imagem": "assets/images/Forte-de-Santa-Catarina-Cabedelo.jpg",
+    "descricao": "O Forte de Santa Catarina é um registro histórico das lutas contra a invasão holandesa à Região Nordeste no Brasil Colônia"
   }
 ]
