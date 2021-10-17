@@ -160,6 +160,13 @@
     "titulo": "Parque Taquaral",
     "descricao": "A Lagoa do Taquaral reúne uma grande variedade de espaços recreativos e culturais, a começar pela Lagoa Isaura Telles Alves de Lima que oferece o uso de pedalinhos, visita a uma réplica exata da Caravela Anunciação (nau que trouxe Pedro Alvares Cabral às terras Brasileiras) e espetáculo de “águas dançantes” de uma fonte sonora (nos fins de semana)."
   },
+   {
+    "uf": "SP",
+    "cidade": "Santos",
+    "imagem": "assets/images/orquidario-saovicente.jpg",
+    "titulo": "Orquidário",
+    "descricao": "Parque zoobotânico que reproduz a Mata Atlântica, o Orquidário Municipal conta com cerca de 3.500 orquídeas de 120 espécies, a grande maioria afixada nas árvores. Inaugurado em 1945, era, à época, o maior parque do gênero, ao ar livre, do mundo e mantém-se como o segundo equipamento público em visitação na cidade, atrás apenas do Aquário."
+  },
   {
     "uf": "TO",
     "cidade": "Mateiros",
